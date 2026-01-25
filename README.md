@@ -1,3 +1,7 @@
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -21,3 +25,14 @@
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedr0augusto/pedr0augusto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedr0augusto/pedr0augusto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedr0augusto/pedr0augusto/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+Github
+Donate
